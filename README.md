@@ -1,4 +1,4 @@
-## Hi! I am Rodrigo Ávila, ready to code and learn a lot!🙌
+<p>Hi! I am Rodrigo Ávila, ready to code and learn a lot!🙌</p>
 
 <img src="https://i.imgur.com/kEzbACE.jpeg">
 <a href="https://www.linkedin.com/in/rodrigo-%C3%A1vila/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-button?style=flat&color=blue"></a>
