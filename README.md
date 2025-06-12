@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/kEzbACE.jpeg">
 <a href="https://www.linkedin.com/in/rodrigo-%C3%A1vila/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-button?style=flat&color=blue"></a>
 
-<a href="https://pagina-personal-rodrigo-avila-es.on.drv.tw/web/" target="_blank">
+<a href="https://personal-website-rodrigo-avila-en.on.drv.tw/web-ingles/" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Personal%20Website-button?style=flat&color=skyblue">
 </a>
 <!--
